@@ -1,0 +1,19 @@
+# Raw data (large, not for public repo)
+LGHelloVision Data/
+
+# Cleaned data output (large parquet files, exceed GitHub's 100MB limit)
+df_clean_part*.parquet
+
+# Portfolio summary / internal notes (not for public repo)
+portfolio_summary.md
+SQL_TECHNIQUES.md
+
+# Scratch/temp
+.tmp/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
